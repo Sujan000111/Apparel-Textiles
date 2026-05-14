@@ -36,5 +36,5 @@ python clothing_analyzer.py
 ```
 
 ## 👨‍💻 Author
-**Michael Raj** — B.Sc Computer Science with Data Analytics  
-Kongunadu Arts and Science College, Coimbatore
+**Vikas A P** — B.Ca 
+NEW HORIZON COLLEGE
